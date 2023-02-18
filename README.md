@@ -1,4 +1,4 @@
 # MTNN
 
-This is the repository where the multi-task neural network for propensity score analysis works.
+This repository is an implementation example of the method mentioned in the article "Propensity score analysis with missing data using a multi-task neural network"
 
